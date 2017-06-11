@@ -310,12 +310,12 @@ body {
   background-repeat: no-repeat;
 }*/
 
-.img1 .frag {background-image: url(images/d1.jpg)}
-.img2 .frag {background-image: url(images/d2.jpg) }
-.img3 .frag {background-image: url(images/c1.jpg) }
-.img4 .frag {background-image: url(images/c2.jpg)}
-.img5 .frag {background-image: url(images/e1.jpg)}
-.img6 .frag {background-image: url(images/e2.jpg)}	
+.img1 .frag {background-image: url("images/p1.png")}
+.img2 .frag {background-image: url("images/d2.jpg") }
+.img3 .frag {background-image: url("images/c1.jpg") }
+.img4 .frag {background-image: url("images/c2.jpg")}
+.img5 .frag {background-image: url("images/e1.jpg")}
+.img6 .frag {background-image: url("images/e2.jpg")}	
 
 .frag {
 	width: 150px;
