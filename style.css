@@ -310,7 +310,7 @@ body {
   background-repeat: no-repeat;
 }*/
 
-.img1 .frag {background-image: url(images/p1.png)}
+.img1 .frag {background-image: url(images/p1.PNG)}
 .img2 .frag {background-image: url(images/d2.JPG) }
 .img3 .frag {background-image: url(images/c1.JPG) }
 .img4 .frag {background-image: url(images/c2.JPG)}
