@@ -91,7 +91,7 @@
 		  </div>
 		  
 		<div align="center" style="margin-top:12%">
-			<img src="images/<?php echo "$id";?>.jpg" alt = <?php echo $product_name?> >
+			<img src="images/<?php echo "$id";?>.JPG" alt = <?php echo $product_name?> >
 			
 			<br>
 			<input type="hidden" name="id" id="id" value="<?php echo $id; ?>" />
